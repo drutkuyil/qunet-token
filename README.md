@@ -74,3 +74,19 @@ No promises or timelines are implied.
 | Ownership | Single Deployer Address |
 
 This project prioritizes transparency, minimalism, and verifiability.
+
+---
+
+## Development Status
+
+QUNET Token smart contract (v1.0.0) is finalized and immutable.
+
+No further changes are planned for the ERC-20 contract.
+
+Future work, if any, will focus on:
+- Documentation improvements
+- External research publications
+- Independent security audits
+- Ecosystem-level experiments (off-chain)
+
+All updates will be publicly tracked via this repository.
