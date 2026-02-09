@@ -90,3 +90,17 @@ Future work, if any, will focus on:
 - Ecosystem-level experiments (off-chain)
 
 All updates will be publicly tracked via this repository.
+
+---
+
+## Liquidity & Market Disclosure
+
+QUNET Token does not currently maintain an active public liquidity pool.
+
+Any future liquidity provisioning, if initiated, will be conducted
+via decentralized exchanges and disclosed publicly in advance.
+
+No guarantees, timelines, or market expectations are expressed or implied.
+
+This disclosure exists to ensure transparency and prevent
+misrepresentation of market status.
