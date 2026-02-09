@@ -47,3 +47,5 @@ Contract source is located at:
 - Repository is public for transparency and review
 
 Audit reports will be published in the `/audits` directory when available.
+
+- Formal security audit is planned and will be published publicly
