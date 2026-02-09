@@ -58,3 +58,19 @@ Liquidity provisioning, if initiated, will be executed transparently
 via decentralized exchanges (e.g. Uniswap) and publicly disclosed.
 
 No promises or timelines are implied.
+
+---
+
+## Transparency Checklist
+
+| Item | Status |
+|-----|-------|
+| Smart Contract Deployed | ✅ |
+| Source Code Verified (Etherscan) | ✅ |
+| Public GitHub Repository | ✅ |
+| Release Tag (v1.0.0) | ✅ |
+| Audit Report | ⏳ Planned |
+| Liquidity Pool | ⏳ Not yet initialized |
+| Ownership | Single Deployer Address |
+
+This project prioritizes transparency, minimalism, and verifiability.
