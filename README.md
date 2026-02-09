@@ -104,3 +104,11 @@ No guarantees, timelines, or market expectations are expressed or implied.
 
 This disclosure exists to ensure transparency and prevent
 misrepresentation of market status.
+
+## Documentation
+
+- 📄 Whitepaper:  
+  [QUNET Whitepaper v1.0](./docs/whitepaper/QUNET_Whitepaper_v1.0.pdf)
+
+- 📊 Pitch Deck:  
+  [QUNET Pitch Deck v1.0](./docs/pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
