@@ -49,3 +49,12 @@ Contract source is located at:
 Audit reports will be published in the `/audits` directory when available.
 
 - Formal security audit is planned and will be published publicly
+
+## Liquidity & Market Status
+
+QUNET Token does not currently maintain an active public liquidity pool.
+
+Liquidity provisioning, if initiated, will be executed transparently
+via decentralized exchanges (e.g. Uniswap) and publicly disclosed.
+
+No promises or timelines are implied.
