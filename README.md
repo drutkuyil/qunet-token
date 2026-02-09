@@ -38,3 +38,12 @@ auditability, and long-term protocol safety.
 - **Optimization:** Disabled (200 runs)
 
 Contract source is located at:
+- [`contracts/QUNET.sol`](./contracts/QUNET.sol)
+
+## Security & Transparency
+
+- Smart contract source code is fully verified on Etherscan
+- No minting or administrative backdoors exist
+- Repository is public for transparency and review
+
+Audit reports will be published in the `/audits` directory when available.
