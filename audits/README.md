@@ -1,5 +1,8 @@
 # QUNET Token — Audit Status
 
+> Status: Pre-Audit / Audit Ready  
+> This directory contains audit preparation and scope documentation only.
+> 
 ## Current Status
 Audit pending.
 
