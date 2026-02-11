@@ -107,8 +107,58 @@ misrepresentation of market status.
 
 ## Documentation
 
-- 📄 Whitepaper:  
-  [QUNET Whitepaper v1.0](./docs/whitepaper/QUNET_Whitepaper_v1.0.pdf)
+# QUNET Documentation Portal
 
-- 📊 Pitch Deck:  
-  [QUNET Pitch Deck v1.0](./docs/pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
+Official documentation repository for QUNET Token.
+
+This repository hosts publicly accessible documentation
+and presentation materials for the QUNET research framework.
+
+---
+
+## Whitepaper
+
+📄 [QUNET Whitepaper v1.0](./whitepaper/QUNET_Whitepaper_v1.0.pdf)
+
+Primary technical and architectural research document.
+
+---
+
+## Pitch Deck
+
+📊 [QUNET Pitch Deck v1.0](./pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
+
+High-level conceptual overview and presentation material.
+
+---
+
+## Tokenomics
+
+📈 [QUNET Tokenomics Overview](./tokenomics/QUNET_Tokenomics_and_GTM.pdf)
+
+Conceptual economic structure and allocation logic.
+
+---
+
+## Legal & Risk Disclosure
+
+⚖️ [Legal & Risk Disclosure](./legal/QUNET_Legal_Disclaimer.pdf)
+
+Regulatory positioning, risk assumptions, and non-investment disclaimer.
+
+---
+
+## Notes
+
+All documents are:
+
+- Research-oriented
+- Non-promissory
+- Non-investment in nature
+- Publicly accessible for transparency
+
+QUNET Token is not a financial instrument and carries no guarantees of utility, value, or development.
+
+---
+
+© QUNET Research
