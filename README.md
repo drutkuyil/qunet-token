@@ -118,7 +118,7 @@ and presentation materials for the QUNET research framework.
 
 ## Whitepaper
 
-📄 [QUNET Whitepaper v1.0](./whitepaper/QUNET_Whitepaper_v1.0.pdf)
+📄 [QUNET Whitepaper v1.0](https://www.qunettoken.com/whitepaper/QUNET_Whitepaper_v1.0.pdf)
 
 Primary technical and architectural research document.
 
@@ -126,7 +126,7 @@ Primary technical and architectural research document.
 
 ## Pitch Deck
 
-📊 [QUNET Pitch Deck v1.0](./pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
+📊 [QUNET Pitch Deck v1.0](https://www.qunettoken.com/pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
 
 High-level conceptual overview and presentation material.
 
@@ -134,7 +134,7 @@ High-level conceptual overview and presentation material.
 
 ## Tokenomics
 
-📈 [QUNET Tokenomics Overview](./tokenomics/QUNET_Tokenomics_and_GTM.pdf)
+📈 [QUNET Tokenomics Overview](https://www.qunettoken.com/tokenomics/QUNET_Tokenomics_and_GTM.pdf)
 
 Conceptual economic structure and allocation logic.
 
@@ -142,7 +142,7 @@ Conceptual economic structure and allocation logic.
 
 ## Legal & Risk Disclosure
 
-⚖️ [Legal & Risk Disclosure](./legal/QUNET_Legal_Disclaimer.pdf)
+⚖️ [Legal & Risk Disclosure](https://www.qunettoken.com/legal/QUNET_Legal_Disclaimer.pdf)
 
 Regulatory positioning, risk assumptions, and non-investment disclaimer.
 
