@@ -135,7 +135,7 @@ High-level conceptual overview and presentation material.
 
 ## Tokenomics
 
-📈 [QUNET Tokenomics Overview](https://www.qunettoken.com/tokenomics/QUNET_Tokenomics_and_GTM.pdf)
+📈 [QUNET Tokenomics Overview](https://github.com/drutkuyil/qunet-token/blob/main/docs/tokenomics/QUNET_Tokenomics_and_GTMv2.0.pdf)
 
 Conceptual economic structure and allocation logic.
 
