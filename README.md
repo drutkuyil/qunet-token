@@ -50,7 +50,7 @@ Contract source is located at:
 ## Governance Architecture & Diagram
 
 Governance follows a multi-layer control architecture:
-
+<div align="center">
 <pre>
                     ┌───────────────────────────────┐
                     │        Multi‑Sig Treasury     │
@@ -61,7 +61,7 @@ Governance follows a multi-layer control architecture:
         │                          │                          │
 ┌──────────────┐          ┌────────────────┐         ┌────────────────┐
 │ Founder Vest │          │ Investor Vest  │         │ Treasury Pool  │
-│ SmartContract│          │ SmartContract  │         │ (Governed)     │
+│ SmartContract│          │ SmartContract  │         │   (Governed)   │
 └──────────────┘          └────────────────┘         └────────────────┘
                                    │
                                    ▼
@@ -70,7 +70,7 @@ Governance follows a multi-layer control architecture:
                          │ (Liquidity Pool)│
                          └─────────────────┘
 </pre>
-
+</div>
 ---
 
 ## Governance Principles
