@@ -127,7 +127,7 @@ Primary technical and architectural research document.
 
 ## Pitch Deck
 
-📊 [QUNET Pitch Deck v1.0](https://www.qunettoken.com/pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
+📊 [QUNET Pitch Deck v1.0](https://github.com/drutkuyil/qunet-token/blob/main/docs/pitch-deck/QUNET_Pitch_Deck_v1.0.pdf)
 
 High-level conceptual overview and presentation material.
 
