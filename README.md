@@ -84,14 +84,16 @@ Governance follows a multi-layer control architecture:
 
 ## Tokenomics Allocation
 
-Founder: 17% (170,000,000)
-Strategic Investor: 10% (100,000,000)
-Liquidity Provision: 15% (150,000,000)
-Ecosystem & Growth: 30% (300,000,000)
-Treasury Reserve: 20% (200,000,000)
-Future Incentives: 8% (80,000,000)
 
-Total Supply: 1,000,000,000 QUNET (Fixed)
+| Allocation Category          | Percentage | Tokens           |
+|------------------------------|---------|---------------------|
+| Founder                      |   17%   |170,000,000          |
+| Strategic Investor           |   10%   |100,000,000          |
+| Liquidity Provision          |   15%   |150,000,000          |
+| Ecosystem & Growth           |   30%   |300,000,000          |
+| Treasury Reserve             |   20%   |200,000,000          |
+| Future Incentives            |   8%    |80,000,000           |
+| Total                        |   100%  |1,000,000,000 (Fixed)|
 
 ---
 
