@@ -65,10 +65,10 @@ Governance follows a multi-layer control architecture:
 └──────────────┘          └────────────────┘         └────────────────┘
                                    │
                                    ▼
-                         ┌─────────────────┐
-                         │  Public Market  │
-                         │ (Liquidity Pool)│
-                         └─────────────────┘
+                          ┌─────────────────┐
+                          │  Public Market  │
+                          │ (Liquidity Pool)│
+                          └─────────────────┘
 </pre>
 ---
 
