@@ -143,7 +143,7 @@ Conceptual economic structure and allocation logic.
 
 ## Legal & Risk Disclosure
 
-⚖️ [Legal & Risk Disclosure](https://www.qunettoken.com/legal/QUNET_Legal_Disclaimer.pdf)
+⚖️ [Legal & Risk Disclosure](https://github.com/drutkuyil/qunet-token/blob/main/docs/legal-disclaimer/QUNET_Legal_Disclaimerv2.0.pdf)
 
 Regulatory positioning, risk assumptions, and non-investment disclaimer.
 
