@@ -51,9 +51,10 @@ Contract source is located at:
 
 Governance follows a multi-layer control architecture:
 
+<pre>
                     ┌───────────────────────────────┐
-                    │        Multi‑Sig Treasury      │
-                    │  (2-of-3 / 3-of-5 Signers)     │
+                    │        Multi‑Sig Treasury     │
+                    │  (2-of-3 / 3-of-5 Signers)    │
                     └──────────────┬────────────────┘
                                    │
         ┌──────────────────────────┼──────────────────────────┐
@@ -68,6 +69,7 @@ Governance follows a multi-layer control architecture:
                          │  Public Market  │
                          │ (Liquidity Pool)│
                          └─────────────────┘
+</pre>
 
 ---
 
