@@ -155,15 +155,21 @@ Enable stable price discovery while minimizing volatility.
 
 ## Protocol Status Matrix
 
-Smart Contract Deployed: ✅
-Source Code Verified: ✅
-Tokenomics V2 Published: ✅
-Whitepaper V2 Published: ✅
-Multi‑Sig Treasury: Planned
-Founder Vesting: Planned
-Investor Vesting: Planned
-Liquidity Lock: Planned
-External Audit: Planned
+
+| Component                    | Status |
+|------------------------------|--------|
+| ERC-20  Contract             | ✅     |
+| Source Verified              | ✅     |
+| Public GitHub Repository     | ✅     |
+| Tokenomics V2 Published      | ✅     |
+| Whitepaper V2 Published      | ✅     |
+| Legal Disclosure             | ✅     |
+| Multi‑Sig Treasury           | Planned |
+| Founder Vesting              | Planned |
+| Investor Vesting             | Planned |
+| Liquidity Lock:              | Planned |
+| Audit                        | Planned |
+
 
 ## Development Status
 
