@@ -119,6 +119,7 @@ and presentation materials for the QUNET research framework.
 ## Whitepaper
 
 📄 [QUNET Whitepaper v1.0](https://www.qunettoken.com/whitepaper/QUNET_Whitepaper_v1.0.pdf)
+📄 [QUNET Whitepaper v2.0](https://github.com/drutkuyil/qunet-token/blob/main/docs/whitepaper/QUNET_Whitepaper_v2.0.pdf)
 
 Primary technical and architectural research document.
 
