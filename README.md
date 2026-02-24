@@ -119,7 +119,7 @@ and presentation materials for the QUNET research framework.
 ## Whitepaper
 
 📄 [QUNET Whitepaper v1.0](https://www.qunettoken.com/whitepaper/QUNET_Whitepaper_v1.0.pdf)
-📄 [QUNET Whitepaper v2.0](https://github.com/drutkuyil/qunet-token/blob/main/docs/whitepaper/QUNET_Whitepaper_v2.0.pdf)
+📄 [QUNET Whitepaper v2.0-Latest](https://github.com/drutkuyil/qunet-token/blob/main/docs/whitepaper/QUNET_Whitepaper_v2.0.pdf)
 
 Primary technical and architectural research document.
 
@@ -134,8 +134,8 @@ High-level conceptual overview and presentation material.
 ---
 
 ## Tokenomics
-
-📈 [QUNET Tokenomics Overview](https://github.com/drutkuyil/qunet-token/blob/main/docs/tokenomics/QUNET_Tokenomics_and_GTMv2.0.pdf)
+📈 [QUNET Tokenomics Overview](https://github.com/drutkuyil/qunet-token/blob/main/docs/tokenomics/QUNET_Tokenomics_and_GTMv1.0.pdf)
+📈 [QUNET Tokenomics Overview-Latest](https://github.com/drutkuyil/qunet-token/blob/main/docs/tokenomics/QUNET_Tokenomics_and_GTMv2.0.pdf)
 
 Conceptual economic structure and allocation logic.
 
@@ -143,7 +143,7 @@ Conceptual economic structure and allocation logic.
 
 ## Legal & Risk Disclosure
 
-⚖️ [Legal & Risk Disclosure](https://github.com/drutkuyil/qunet-token/blob/main/docs/legal-disclaimer/QUNET_Legal_Disclaimerv2.0.pdf)
+⚖️ [Legal & Risk Disclosure-Latest](https://github.com/drutkuyil/qunet-token/blob/main/docs/legal-disclaimer/QUNET_Legal_Disclaimerv2.0.pdf)
 
 Regulatory positioning, risk assumptions, and non-investment disclaimer.
 
